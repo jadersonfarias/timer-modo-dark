@@ -7,8 +7,8 @@ import {
 
 export default function() {
     const forest = new Audio("./src/Floresta.wav");
-    const rain = new Audio("./src/chuva.wav");
-    const fireplace = new Audio("./src/lareira.wav");
+    const rain = new Audio("./src/Chuva.wav");
+    const fireplace = new Audio("./src/Lareira.wav");
     const coffeshop = new Audio("./src/coffee-shop.wav");
   
 
