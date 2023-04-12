@@ -1,5 +1,5 @@
 
-## desafio do stage 05 timer-modo-dark
+## challenge do stage 05 timer-modo-dark
 
 
 #dark-mode
@@ -8,13 +8,13 @@
 #light mode
 <img src="favicon/light.png" alt="light">
 
-## Funcionalidades
+## functionality
 
-- Play   : aciona o timer;
+- Play   : triggers the timer;
 - Stop   : para o timer;
-- mais + : aumenta em mais 5 minutos o tempo do timer;
-- menos - : diminui em 5 minutos o tempo do timer.
-- quando um card é selecionado ele muda de cor e começa a tocar o som específico
-- o volume é controlado por um slider
-- botão moddo dark que muda o tema 
+- more + : increases by more 5 minutes o tempo do timer;
+- less - : decreases in 5 minutes o tempo do timer.
+- when a card is selected it changes color and starts playing the specific sound
+- the volume is controlled by a slider
+- dark mode button that changes the theme
 
